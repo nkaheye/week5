@@ -1,9 +1,14 @@
 .heading{
     color: red;
 }
-.p2{
+#LondonHeading{
+    background-color: pink;
+}
+
+.capitalPara{
     background-color: beige;
 }
-.p2{
+.capitalPara{
     background-color: rgb(248, 223, 187)
 }
+
