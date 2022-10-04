@@ -11,4 +11,16 @@
 .capitalPara{
     background-color: rgb(248, 223, 187)
 }
+span{
+    padding: 0px 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;  
+}
+
+#para{
+    border-color: lightgreen;
+    border-width: 10px;
+    border-style: ridge;
+    margin: 5px;
+}
 
